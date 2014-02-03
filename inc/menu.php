@@ -11,10 +11,10 @@
   	<!-- Collect the nav links, forms, and other content for toggling -->
   	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
   		<ul class="nav navbar-nav">
-  			<li class="menuitem" id="about"><a href="about.php">About</a></li>
-  			<li class="menuitem" id="page1 menuitem"><a href="page1.php">Page 1</a></li>
-  			<li class="menuitem" id="page2 menuitem"><a href="page2.php">Page 2</a></li>
-  			<li class="menuitem" id="page3 menuitem"><a href="page3.php">Page 3</a></li>
+  			<li class="menuitem" id="about.php"><a href="about.php">About</a></li>
+  			<li class="menuitem" id="page1.php"><a href="page1.php">Page 1</a></li>
+  			<li class="menuitem" id="page2.php"><a href="page2.php">Page 2</a></li>
+  			<li class="menuitem" id="page3.php"><a href="page3.php">Page 3</a></li>
   		</ul>
   	</div>
 </nav>
